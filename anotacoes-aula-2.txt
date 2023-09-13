@@ -1,0 +1,25 @@
+
+
+
+
+bit.ly/45hcGb3
+
+
+https://polarized-saltopus-d0f.notion.site/Python-Student-3d3314d678f24cf0aa983870bb9f2f75
+
+
+ENVIAR ATIVIDADES PARA: 
+beatriz.cristina@sp.senai.br
+
+Roadmap -  mapa para verificar trilhas de aprendizado
+https://roadmap.sh/
+
+ctrl + ; = Comenta linha
+
+
+Limpar a tela
+import os
+os.system('cls')
+
+
+input = entrada de dados
